@@ -1,0 +1,7 @@
+We will use Github, R, Stata, Tableau and Spotify API for data analysis and visualisation
+We aim to use Spotify API to retrieve specific data about a song such as its danceability and chart run. 
+<img width="1126" alt="Screen Shot 2021-10-28 at 3 46 31 PM" src="https://user-images.githubusercontent.com/92086210/139281941-f2589afb-b1ce-4120-a05f-69588b57f15b.png">
+
+We will do R programming to help us retrieve this data via coding. 
+Stata and Tableau will be used to visualize trends via different plots. 
+We will use GitHub repositories to conduct visualisations and all data analysis. 

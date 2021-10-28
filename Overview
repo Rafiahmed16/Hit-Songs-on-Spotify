@@ -1,0 +1,1 @@
+We wish to do a visualization of the audio features that helps makes popular music on Spotify i.e. songs with the most streams. We have decided to focus on the mood of a song, namely tempo, energy and/or danceability, its properties i.e. instrumentalness and liveness, and context i.e. acousticness.

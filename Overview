@@ -1,1 +1,4 @@
 We wish to do a visualization of the audio features that helps makes popular music on Spotify i.e. songs with the most streams. We have decided to focus on the mood of a song, namely tempo, energy and/or danceability, its properties i.e. instrumentalness and liveness, and context i.e. acousticness.
+<img width="188" alt="Screen Shot 2021-10-28 at 3 40 13 PM" src="https://user-images.githubusercontent.com/92086210/139280433-0ebe9cfb-23f1-4a01-bf26-17819182b84f.png">
+Our data set: top 25-50 most streamed songs weekly songs all around the globe of first week of November in the years 2017, 2019, and 2021. 
+Our finished product would include visualizations depicting the overall trend of the transformation of hit songs over the years, and the role of the audio features on their positions. 
